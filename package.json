@@ -1,0 +1,27 @@
+{
+  "name": "express-study",
+  "version": "0.0.1",
+  "description": "Express study by Tuts+ Getting Started with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flyingkrai/express-study.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mocha"
+  ],
+  "author": "Davi Alves <hey@davialves.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyingkrai/express-study/issues"
+  },
+  "homepage": "https://github.com/flyingkrai/express-study",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
+}
